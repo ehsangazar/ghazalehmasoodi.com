@@ -1,32 +1,38 @@
 @font-face{font-family:IRANSans;font-style:normal;font-weight:900;src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Black.eot');src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Black.eot?#iefix') format('embedded-opentype'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Black.woff2') format('woff2'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Black.woff') format('woff'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Black.ttf') format('truetype');}
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Black.woff2') format('woff2'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Black.woff') format('woff'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Black.ttf') format('truetype');
+}
 @font-face{font-family:IRANSans;font-style:normal;font-weight:bold;src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Bold.eot');src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Bold.eot?#iefix') format('embedded-opentype'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Bold.woff2') format('woff2'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Bold.woff') format('woff'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Bold.ttf') format('truetype');}
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Bold.woff2') format('woff2'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Bold.woff') format('woff'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Bold.ttf') format('truetype');
+}
 @font-face{font-family:IRANSans;font-style:normal;font-weight:500;src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Medium.eot');src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Medium.eot?#iefix') format('embedded-opentype'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Medium.woff2') format('woff2'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Medium.woff') format('woff'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Medium.ttf') format('truetype');}
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Medium.woff2') format('woff2'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Medium.woff') format('woff'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Medium.ttf') format('truetype');
+}
 @font-face{font-family:IRANSans;font-style:normal;font-weight:300;src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Light.eot');src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Light.eot?#iefix') format('embedded-opentype'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Light.woff2') format('woff2'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Light.woff') format('woff'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Light.ttf') format('truetype');}
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Light.woff2') format('woff2'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Light.woff') format('woff'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_Light.ttf') format('truetype');
+}
 @font-face{font-family:IRANSans;font-style:normal;font-weight:200;src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_UltraLight.eot');src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_UltraLight.eot?#iefix') format('embedded-opentype'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_UltraLight.woff2') format('woff2'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_UltraLight.woff') format('woff'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_UltraLight.ttf') format('truetype');}
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_UltraLight.woff2') format('woff2'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_UltraLight.woff') format('woff'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb_UltraLight.ttf') format('truetype');
+}
 @font-face{font-family:IRANSans;font-style:normal;font-weight:normal;src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb.eot');src:url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb.eot?#iefix') format('embedded-opentype'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb.woff2') format('woff2'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb.woff') format('woff'),
-url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb.ttf') format('truetype');}
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb.woff2') format('woff2'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb.woff') format('woff'),
+	url('/wp-content/themes/influencer/fonts/IRANSansWeb-Fonts/IRANSansWeb.ttf') format('truetype');
+}
 html{overflow-x:hidden;}
 body{
-  font-family:IRANSans, tahoma, arial !important;
-  font-weight:300!important;
-  overflow-x:hidden;
+	font-family:IRANSans, tahoma, arial !important;
+	font-weight:300!important;
+	overflow-x:hidden;
 }
 
 /*!
@@ -58,20 +64,20 @@ Nicolas Gallagher and Jonathan Neal https://necolas.github.io/normalize.css/
 # Elements
 # Forms
 # Navigation
-	## Links
-	## Menus
+## Links
+## Menus
 # Accessibility
 # Alignments
 # Clearings
 # Widgets
 # Content
-	## Posts and pages
-	## Comments
+## Posts and pages
+## Comments
 # Infinite scroll
 # Media
-	## Captions
-	## Galleries
-	--------------------------------------------------------------*/
+## Captions
+## Galleries
+--------------------------------------------------------------*/
 /*--------------------------------------------------------------
 # Normalize
 --------------------------------------------------------------*/
@@ -303,7 +309,7 @@ textarea {
 h1, h2, h3, h4, h5, h6 {
 	clear: both;
 	font-family: 'poppins', sans-serif;
-    font-family:IRANSans, tahoma, arial !important;
+	font-family:IRANSans, tahoma, arial !important;
 	font-weight: 700;
 	color: #323438;
 	margin: 0.67em 0;
@@ -560,18 +566,18 @@ a {
 
 a:hover, a:focus, a:active {
 	color: inherit;
-	}*/
+}*/
 
-	a:focus {
-		outline: none;
-	}
+a:focus {
+	outline: none;
+}
 
-	a:hover, a:active {
-		outline: 0;
-	}
-	a:hover {
-		color: #083ea7;
-	}
+a:hover, a:active {
+	outline: 0;
+}
+a:hover {
+	color: #083ea7;
+}
 
 /*--------------------------------------------------------------
 ## Menus
@@ -957,6 +963,7 @@ section[class*="-section"] .widget.widget_text .widget-title {
 a.bttn, .btn-readmore {
 	background: transparent;
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	font-size: 16px;
 	font-weight: 600;
 	color: #083ea7;
@@ -976,6 +983,7 @@ a.btn-red,
 	color: #fff;
 	font-size: 13px;
 	font-family: 'poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	font-weight: 700;
 	letter-spacing: 1.5px;
 	display: inline-block;
@@ -991,6 +999,7 @@ a.btn-red:hover,
 .widget-title {
 	font-size: 18px;
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	font-weight: 700;
 	margin-bottom: 25px;
 	color: #323438;
@@ -1052,7 +1061,7 @@ span.post-date {
 	z-index: -1;
 }
 .site-content > .page-header.has-bgimg .cm-wrapper {
-    margin-top: 40px;
+	margin-top: 40px;
 }
 .page-header p {
 	color: #fff;
@@ -1080,6 +1089,7 @@ span.post-date {
 	letter-spacing: 0.5px;
 	color: #fff;
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	display: inline-block;
 }
 .breadcrumb a.breadcrumb-item:hover, 
@@ -1100,6 +1110,7 @@ span.post-date {
 .entry-header .entry-subtitle {
 	font-size: 16px;
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	color: #a8adb5;
 	font-weight: 500;
 	letter-spacing: 0.8px;
@@ -1168,6 +1179,7 @@ blockquote span {
 q {
 	font-size: 22px;
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	font-style: italic;
 	font-weight: 500;
 	color: #111111;
@@ -1222,7 +1234,7 @@ figure a, a.entry-image {
 }
 
 .page-header .about-author .author-desc p {
-    width: auto;
+	width: auto;
 }
 
 .widget-area .widget .entry-meta > span a {
@@ -1285,7 +1297,7 @@ COMMENT SECTION
 	margin-bottom: 10px;
 }
 .comment-author.vcard, .comment-metadata {
-    line-height: 1;
+	line-height: 1;
 }
 .comment-meta {
 	position: relative;
@@ -1595,6 +1607,7 @@ body {
 	font-size: 12px;
 	
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	background: #083ea7;
 	border-radius: 5px;
 	line-height: 20px;
@@ -1659,6 +1672,7 @@ MAIN HEADER SECTION
 }
 .site-title {
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	font-size: 20px;
 	font-weight: 700;
 	color: #f5f7fa;
@@ -1694,6 +1708,7 @@ MAIN HEADER SECTION
 	position: relative;
 	vertical-align: middle;
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	letter-spacing: 0.5px;
 	text-transform: capitalize;
 	font-size: 16px;
@@ -1736,6 +1751,7 @@ MAIN HEADER SECTION
 .main-navigation ul.nav-menu a.menu-start-button {
 	padding: 7px 15px;
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	font-weight: 700;
 	
 	font-size: 13px;
@@ -1949,7 +1965,7 @@ WIDGET RARATHEME CLIENT LOGO
 	padding: 15px 10px;
 }
 .widget .image-holder.black-white:hover {
-    -webkit-filter: grayscale(0);
+	-webkit-filter: grayscale(0);
 	-moz-filter: grayscale(0);
 	filter: grayscale(0);
 }
@@ -2015,8 +2031,8 @@ section[class*="-section"] .widget_raratheme_featured_page_widget .right .img-ho
 	margin-top: 30px;
 }
 section[class*="-section"] .widget_raratheme_featured_page_widget .no-featured-image .text-holder {
-    width: 100%;
-    padding: 0;
+	width: 100%;
+	padding: 0;
 }
 /*==============================
 SERVICE SECTION
@@ -2248,6 +2264,7 @@ a.readmore,
 	display: inline-block;
 	color: #083ea7;
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	font-size: 13px;
 	
 	font-weight: 700;
@@ -2325,8 +2342,8 @@ WIDGET TAG CLOUD
 	margin-bottom: 5px;
 }
 .widget_tag_cloud a {
-    color: #333;
-    font-size: 1em !important;
+	color: #333;
+	font-size: 1em !important;
 }
 .widget_tag_cloud a:hover {
 	background: #083ea7;
@@ -2459,7 +2476,7 @@ WIDGET RECENT POSTS
 	border-top-color: #eee;
 }
 #secondary .widget ul .sub-menu li {
-    font-size: 1em;
+	font-size: 1em;
 }
 .widget_recent_entries ul li a {
 	font-size: 16px;
@@ -2494,7 +2511,7 @@ WIDGET CATEGORIES
 #secondary .widget_archive select, 
 #secondary .widget_categories select, 
 #secondary .widget_text .textwidget {
-    font-size: 0.9em;
+	font-size: 0.9em;
 }
 
 /*=========================
@@ -2550,7 +2567,7 @@ WIDGET BLOSSOMTHEME NEWSLETTER
 }
 .widget_blossomthemes_email_newsletter_widget form input[type="text"], 
 .widget_blossomthemes_email_newsletter_widget form input[type="email"] {
-    border: 1px solid #cbcdd1;
+	border: 1px solid #cbcdd1;
 }
 
 /*=================================
@@ -2789,6 +2806,7 @@ WIDGET RARATHEME CTA
 	border: 2px solid #e44a66;
 	color: #fff;
 	font-family: 'poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	letter-spacing: 1.5px;
 	display: inline-block;
 	border-radius: 5px;
@@ -2850,6 +2868,7 @@ WIDGET RARATHEME STATCOUNTER
 }
 .widget_raratheme_companion_stat_counter_widget .hs-counter {
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	font-weight: 700;
 	font-size: 36px;
 }
@@ -3611,7 +3630,7 @@ SINGLE PAGE
 	padding-left: 50px;
 }
 .widget_blossomthemes_email_newsletter_widget label[for="subscribe-confirmation"] {
-    clear: both;
+	clear: both;
 }
 .post-newsletter .blossomthemes-email-newsletter-wrapper form input[type="submit"] {
 	width: 100%;
@@ -3786,6 +3805,7 @@ LIST VIEW LAYOUT
 }
 .list-layout .article-author {
 	font-family: 'Poppins', sans-serif;
+	font-family:IRANSans, tahoma, arial !important;
 	font-weight: 700;
 	color: #323338;
 	letter-spacing: 0.5px;
@@ -3897,12 +3917,12 @@ form.search-form {
 }
 
 .error-404 .news-post-title {
-    text-align: center;
+	text-align: center;
 }
 
 .error404 .error-404 .related-post {
-    padding-top: 0;
-    border-top: 0;
+	padding-top: 0;
+	border-top: 0;
 }
 
 /*=======================
@@ -3963,7 +3983,7 @@ RESPONSIVE DESIGN
 	.custom-background header.site-header {
 		max-width: 95%;
 	}
-
+	
 	.banner-section .blossomthemes-email-newsletter-wrapper {
 		width: 70%;
 	}
@@ -4027,7 +4047,7 @@ RESPONSIVE DESIGN
 	.rtc-team-holder-modal ul.social-profile li {
 		font-size: 20px;
 	}
-
+	
 }
 
 @media screen and (max-width: 980px) {
@@ -4047,18 +4067,18 @@ RESPONSIVE DESIGN
 	.side-social-share {
 		position: static;
 	}
-
+	
 	.rtc-team-holder-modal ul.social-profile li {
 		font-size: 18px;
 	}
 	.rtc-team-holder-modal ul.social-profile li a {
 		padding-right: 15px;
 	}
-
+	
 	.section-title, section[class*="-section"] .widget-title {
 		font-size: 1.7em;
 	}
-
+	
 	/*==============================
 	HEADER SECTION
 	==============================*/
@@ -4210,7 +4230,7 @@ RESPONSIVE DESIGN
 		-moz-transform: rotate(180deg);
 		transform: rotate(180deg);
 	}
-
+	
 	/*=======================
 	BANNER SECTION
 	=======================*/
@@ -4220,18 +4240,18 @@ RESPONSIVE DESIGN
 	.banner-section .blossomthemes-email-newsletter-wrapper .text-holder h3 {
 		font-size: 1.7em;
 	}
-
+	
 	.banner-section .blossomthemes-email-newsletter-wrapper .text-holder span {
 		font-size: 0.95em;
 	}
-
+	
 	/*============================
 	BLOG SECTION
 	============================*/
 	.news-section .news-content-wrap {
 		padding: 20px;
 	}
-
+	
 	/*============================
 	GRID LAYOUT
 	============================*/
@@ -4247,7 +4267,7 @@ RESPONSIVE DESIGN
 	.related-content-wrap {
 		padding: 20px;
 	}
-
+	
 	/*===========================
 	COMMENT SECTION
 	===========================*/
@@ -4256,14 +4276,14 @@ RESPONSIVE DESIGN
 	.comment-form p.comment-form-url {
 		width: 30.5%;
 	}
-
+	
 	/*==========================
 	LIST LAYOUT
 	==========================*/
 	.list-layout .entry-content {
 		padding-left: 30px;
 	}
-
+	
 	/*=========================
 	ABOUT PAGE
 	=========================*/
@@ -4274,7 +4294,7 @@ RESPONSIVE DESIGN
 	.story-feat-wrap .widget_rrtc_icon_text_widget {
 		padding-left: 30px;
 	}
-
+	
 }
 
 @media screen and (max-width: 810px) {
@@ -4284,7 +4304,7 @@ RESPONSIVE DESIGN
 	.page-header .about-author {
 		width: 100%;
 	}
-
+	
 	/*===============================
 	SIDEBARS
 	===============================*/
@@ -4297,7 +4317,7 @@ RESPONSIVE DESIGN
 		padding-right: 0;
 		padding-left: 0;
 	}
-
+	
 	/*===============================
 	HEADER SECTION
 	===============================*/
@@ -4307,28 +4327,28 @@ RESPONSIVE DESIGN
 	.header-ticker p.ticker-title {
 		padding-top: 5px;
 	}
-
+	
 	/*=============================
 	BANNER SECTION
 	=============================*/
 	a.scroll-down {
 		bottom: 20px;
 	}
-
+	
 	/*=============================
 	CLIENT SECTION
 	=============================*/
 	section[class*="-section"] .widget_raratheme_client_logo_widget .image-holder {
 		width: 14.5%;
 	}
-
+	
 	/*===========================
 	SERVICE SECTION
 	===========================*/
 	section[class*="-section"] .widget_rrtc_icon_text_widget {
 		width: 50%;
 	}
-
+	
 	/*==============================
 	TESTIMONIAL SECTION
 	==============================*/
@@ -4343,7 +4363,7 @@ RESPONSIVE DESIGN
 		width: calc(100% - 55px);
 		padding-left: 20px;
 	}
-
+	
 	/*===============================
 	BLOG SECTION
 	===============================*/
@@ -4359,7 +4379,7 @@ RESPONSIVE DESIGN
 	.error-404 .news-block:nth-child(3) {
 		display: none;
 	}
-
+	
 	/*===============================
 	FOOTER SECTION
 	===============================*/
@@ -4387,7 +4407,7 @@ RESPONSIVE DESIGN
 		z-index: 9;
 	}
 	
-
+	
 	/*===========================
 	GRID LAYOUT
 	===========================*/
@@ -4411,7 +4431,7 @@ RESPONSIVE DESIGN
 	.grid-layout + nav.pagination {
 		margin-top: 10px;
 	}
-
+	
 	/*=====================================
 	SINGLE CENTERED AND FULLWIDTH LAYOUT
 	=====================================*/
@@ -4449,7 +4469,7 @@ RESPONSIVE DESIGN
 	.full-width .comments-area {
 		width: 100%;
 	}
-
+	
 	/*=========================
 	LIST LAYOUT 
 	=========================*/
@@ -4463,7 +4483,7 @@ RESPONSIVE DESIGN
 		padding-left: 20px;
 		margin-top: 0;
 	}
-
+	
 }
 
 @media screen and (max-width: 782px) {
@@ -4491,7 +4511,7 @@ RESPONSIVE DESIGN
 	a.scroll-down {
 		display: none;
 	}
-
+	
 	.error404 .page-header p {
 		width: 100%;
 	}
@@ -4501,11 +4521,11 @@ RESPONSIVE DESIGN
 	.error404 .error-num {
 		font-size: 10em;
 	}
-
+	
 	.ban-img-holder {
 		height: 40vw;
 	}
-
+	
 }
 
 @media screen and (max-width: 640px) {
@@ -4599,7 +4619,7 @@ RESPONSIVE DESIGN
 		-moz-transform: translateY(0);
 		transform: translateY(0);
 	}
-
+	
 	/*===========================
 	HEADER SECTION
 	===========================*/
@@ -4612,7 +4632,7 @@ RESPONSIVE DESIGN
 		width: 20%;
 		text-align: right;
 	}
-
+	
 	/*===========================
 	BANNER SECTION
 	===========================*/
@@ -4622,7 +4642,7 @@ RESPONSIVE DESIGN
 	.banner-section .blossomthemes-email-newsletter-wrapper .text-holder h3 {
 		font-size: 1.5em;
 	}
-
+	
 	/*==========================
 	CLIENT SECTION
 	==========================*/
@@ -4632,7 +4652,7 @@ RESPONSIVE DESIGN
 	section[class*="-section"] .widget_raratheme_client_logo_widget .image-holder:nth-child(3n) {
 		margin-right: 0;
 	}
-
+	
 	/*===========================
 	ABOUT SECTION
 	===========================*/
@@ -4653,7 +4673,7 @@ RESPONSIVE DESIGN
 		padding-right: 0;
 		order: 2;
 	}
-
+	
 	/*===========================
 	SERVICE SECTION
 	===========================*/
@@ -4661,7 +4681,7 @@ RESPONSIVE DESIGN
 		padding-top: 50px;
 		padding-bottom: 50px;
 	}
-
+	
 	/*============================
 	TESTIMONIAL SECTION
 	============================*/
@@ -4675,7 +4695,7 @@ RESPONSIVE DESIGN
 		margin-right: 0;
 		margin-left: 0;
 	}
-
+	
 	/*=============================
 	CTA SECTION
 	=============================*/
@@ -4694,7 +4714,7 @@ RESPONSIVE DESIGN
 	section[class*="-section"] .widget_raratheme_companion_cta_widget .right .button-wrap {
 		text-align: right;
 	}
-
+	
 	/*========================
 	BLOG SECTION
 	========================*/
@@ -4702,7 +4722,7 @@ RESPONSIVE DESIGN
 		padding-top: 50px;
 		padding-bottom: 50px;
 	}
-
+	
 	/*===============================
 	FOOTER SECTION
 	===============================*/
@@ -4713,18 +4733,18 @@ RESPONSIVE DESIGN
 	.top-footer .col-3 .column {
 		width: 48%;
 	}
-
+	
 	.top-footer .col-3 .column:nth-child(2n) {
 		margin-right: 0;
 	}
-
+	
 	/*=========================
 	RELATED POSTS SECTION
 	=========================*/
 	.related-content-wrap {
 		padding: 20px;
 	}
-
+	
 	/*=========================
 	LIST LAYOUT 
 	=========================*/
@@ -4797,26 +4817,26 @@ RESPONSIVE DESIGN
 		clear: both;
 		margin: 5px auto 0 auto;
 	}
-
+	
 	.search .page-header form.search-form {
 		width: 100%;
 	}
-
+	
 	body:not(.single) .post-newsletter .blossomthemes-email-newsletter-wrapper .text-holder h3 {
 		font-size: 1.7em;
 	}
-
+	
 	body:not(.single-post) .post-newsletter .blossomthemes-email-newsletter-wrapper form input[type="text"], 
 	body:not(.single-post) .post-newsletter .blossomthemes-email-newsletter-wrapper form input[type="email"] {
 		width: 100%;
 		margin-right: 0;
 		margin-bottom: 10px;
 	}
-
+	
 	body:not(.single-post) .post-newsletter .blossomthemes-email-newsletter-wrapper form input[type="submit"] {
 		width: 100%;
 	}
-
+	
 	/*===========================
 	SERVICE SECTION
 	===========================*/
@@ -4826,7 +4846,7 @@ RESPONSIVE DESIGN
 		margin-right: 0;
 		margin-bottom: 40px;
 	}
-
+	
 	/*=============================
 	BLOG SECTION
 	=============================*/
@@ -4840,12 +4860,12 @@ RESPONSIVE DESIGN
 		margin-bottom: 30px;
 		margin-right: 0;
 	}
-
+	
 	.news-section .news-block:nth-child(3), 
 	.error-404 .news-block:nth-child(3) {
 		display: block;
 	}
-
+	
 	/*=============================
 	FOOTER SECTION
 	=============================*/
@@ -4859,7 +4879,7 @@ RESPONSIVE DESIGN
 	.top-footer .column .widget {
 		margin-bottom: 40px;
 	}
-
+	
 	/*=================================
 	RELATED POSTS SECTION
 	=================================*/
@@ -4872,7 +4892,7 @@ RESPONSIVE DESIGN
 		width: 100%;
 		margin-right: 0;
 	}
-
+	
 	/*==============================
 	COMMENT SECTION
 	==============================*/
@@ -4898,7 +4918,7 @@ RESPONSIVE DESIGN
 		width: 100%;
 		margin-right: 0;
 	}
-
+	
 	/*===========================
 	GRID LAYOUT
 	===========================*/
@@ -4909,17 +4929,17 @@ RESPONSIVE DESIGN
 		margin-bottom: 30px;
 		padding-bottom: 0;
 	}
-
+	
 	.rightsidebar .grid-layout article, 
 	.leftsidebar .grid-layout article {
 		width: 100%;
 	}
-
+	
 	.rightsidebar .grid-layout article:nth-child(3n), 
 	.leftsidebar .grid-layout article:nth-child(3n) {
 		margin-right: 0;
 	}
-
+	
 	/*=======================================
 	SINGLE CENTERED AND FULLWIDTH LAYOUT 
 	=======================================*/
@@ -4927,7 +4947,7 @@ RESPONSIVE DESIGN
 	.full-width .related-post-wrap .related-post-block {
 		width: 100%;
 	}
-
+	
 	/*==============================
 	LIST LAYOUT
 	==============================*/
@@ -4947,7 +4967,7 @@ RESPONSIVE DESIGN
 		padding-top: 50px;
 		padding-bottom: 50px;
 	}
-
+	
 	/*============================
 	ABOUT PAGE
 	============================*/
@@ -4958,5 +4978,5 @@ RESPONSIVE DESIGN
 		margin-right: 0;
 		margin-bottom: 60px;
 	}
-
+	
 }

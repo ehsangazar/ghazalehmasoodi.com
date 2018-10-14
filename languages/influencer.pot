@@ -116,7 +116,7 @@ msgstr ""
 
 #: inc/extras.php:136 inc/extras.php:151 inc/extras.php:605
 #: inc/template-functions.php:439 sections/latest-posts.php:54
-msgid "Continue Reading"
+msgid "بیشتر بخوانید"
 msgstr ""
 
 #. used between list items, there is a space after the comma
