@@ -1,0 +1,787 @@
+# Copyright (C) 2018 Rara Theme
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Influencer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-21 11:07+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/"
+
+#: 404.php:16
+msgid "404"
+msgstr ""
+
+#: 404.php:17
+msgid "Take me to the home page"
+msgstr ""
+
+#: archive.php:16 search.php:16
+#, php-format
+msgid "Showing %1$s Result(s)%2$s"
+msgstr ""
+
+#. 1: comment count number.
+#: comments.php:32
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Comment"
+msgid_plural "%1$s Comments"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:53
+msgid "Comments are closed."
+msgstr ""
+
+#: inc/custom-functions.php:50 inc/custom-functions.php:121
+msgid "Primary"
+msgstr ""
+
+#: inc/custom-functions.php:94
+msgctxt "header image description"
+msgid "Default Banner"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Poppins, translate this to 'off'. Do not translate into your own language.
+#: inc/custom-functions.php:188
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#. If there are characters in your language that are not supported by Source Sans Pro, translate this to 'off'. Do not translate into your own language.
+#: inc/custom-functions.php:193
+msgctxt "Source Sans Pro: on or off"
+msgid "on"
+msgstr ""
+
+#: inc/custom-functions.php:303 inc/customizer/general.php:118
+#: inc/customizer/partials.php:49
+msgid "Start Here"
+msgstr ""
+
+#: inc/custom-functions.php:355
+msgid "Name*"
+msgstr ""
+
+#: inc/custom-functions.php:357
+msgid "Email*"
+msgstr ""
+
+#: inc/custom-functions.php:359
+msgid "Website"
+msgstr ""
+
+#: inc/custom-functions.php:373
+msgid "Comment"
+msgstr ""
+
+#: inc/custom-functions.php:471
+msgctxt "placeholder"
+msgid "Search..."
+msgstr ""
+
+#: inc/custom-functions.php:471
+msgctxt "placeholder"
+msgid "Search"
+msgstr ""
+
+#: inc/extras.php:37
+msgid "Posted: "
+msgstr ""
+
+#: inc/extras.php:42
+msgid "Last Updated: "
+msgstr ""
+
+#: inc/extras.php:65 inc/extras.php:73
+#, php-format
+msgctxt "post author"
+msgid "by %s"
+msgstr ""
+
+#. %s: post title
+#: inc/extras.php:86
+#, php-format
+msgid "Leave a Comment<span class=\"screen-reader-text\"> on %s</span>"
+msgstr ""
+
+#: inc/extras.php:136 inc/extras.php:151 inc/extras.php:605
+#: inc/template-functions.php:439 sections/latest-posts.php:54
+msgid "Continue Reading"
+msgstr ""
+
+#. used between list items, there is a space after the comma
+#: inc/extras.php:209
+msgid ", "
+msgstr ""
+
+#: inc/extras.php:297
+msgid "About"
+msgstr ""
+
+#: inc/extras.php:297
+msgid "All posts by"
+msgstr ""
+
+#: inc/extras.php:322
+msgid "Click here to add a menu"
+msgstr ""
+
+#: inc/extras.php:353
+#, php-format
+msgid ""
+"<b class=\"fn\" itemprop=\"creator\" itemscope itemtype=\"http://schema."
+"org/Person\">%s</b><span class=\"says\"> Says:</span>"
+msgstr ""
+
+#. 1: date, 2: time
+#: inc/extras.php:362
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/extras.php:491
+msgid "Blog"
+msgstr ""
+
+#: inc/extras.php:504
+msgid "Browsing Category"
+msgstr ""
+
+#: inc/extras.php:508
+msgid "Browsing Tag"
+msgstr ""
+
+#: inc/extras.php:518
+msgid "You Are Looking For"
+msgstr ""
+
+#: inc/extras.php:523
+msgid "Uh-Oh..."
+msgstr ""
+
+#: inc/extras.php:524
+msgid ""
+"The page you are looking for may have been moved, deleted, or possibly never "
+"existed."
+msgstr ""
+
+#: inc/extras.php:568 inc/customizer/general.php:273
+#: inc/customizer/partials.php:79
+msgid "You Might Also Like..."
+msgstr ""
+
+#: inc/metabox.php:14
+msgid "Sidebar Layout"
+msgstr ""
+
+#: inc/metabox.php:27
+msgid "Default Sidebar"
+msgstr ""
+
+#: inc/metabox.php:32
+msgid "Full Width"
+msgstr ""
+
+#: inc/metabox.php:37
+msgid "Full Width Centered"
+msgstr ""
+
+#: inc/metabox.php:42
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/metabox.php:47
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/metabox.php:57
+msgid "Choose Sidebar Template"
+msgstr ""
+
+#: inc/template-functions.php:202
+msgid "Pages:"
+msgstr ""
+
+#. %s: Name of current post. Only visible to screen readers
+#: inc/template-functions.php:215
+#, php-format
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/template-functions.php:263
+msgid ""
+"<span class=\"prev\"><span class=\"prev-arrow\"></span><span "
+"class=\"pagination-txt\">Previous Post</span></span><h4>%title</h4>"
+msgstr ""
+
+#: inc/template-functions.php:264
+msgid ""
+"<span class=\"next\"><span class=\"next-arrow\"></span><span "
+"class=\"pagination-txt\">Next Post</span></span><h4>%title</h4>"
+msgstr ""
+
+#: inc/template-functions.php:270
+msgid ""
+"<span class=\"prev-arrow\"></span><span class=\"pagination-txt\">"
+"Previous</span"
+msgstr ""
+
+#: inc/template-functions.php:271
+msgid ""
+"<span class=\"pagination-txt\">Next</span> <span class=\"next-arrow\"></span>"
+msgstr ""
+
+#: inc/template-functions.php:358
+msgid " Influencer"
+msgstr ""
+
+#: inc/template-functions.php:358
+msgid " by Rara Theme."
+msgstr ""
+
+#: inc/template-functions.php:360
+#, php-format
+msgid " Powered by %s"
+msgstr ""
+
+#: inc/template-functions.php:360
+msgid "https://wordpress.org/"
+msgstr ""
+
+#: inc/template-functions.php:368
+msgid "Back to top"
+msgstr ""
+
+#: inc/template-functions.php:421 sections/latest-posts.php:8
+#: inc/customizer/front-page.php:106 inc/customizer/partials.php:59
+msgid "Latest Articles"
+msgstr ""
+
+#: inc/widgets.php:17
+msgid "Sidebar"
+msgstr ""
+
+#: inc/widgets.php:19
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets.php:22
+msgid "Logo Section"
+msgstr ""
+
+#: inc/widgets.php:24
+msgid "Add \"Rara: Client Logo\" Widget for logo section."
+msgstr ""
+
+#: inc/widgets.php:27
+msgid "About Section"
+msgstr ""
+
+#: inc/widgets.php:29
+msgid "Add \"Rara: A Featured Page Widget\" for about section."
+msgstr ""
+
+#: inc/widgets.php:32
+msgid "Service Section"
+msgstr ""
+
+#: inc/widgets.php:34
+msgid "Add \"Text\" and \"Rara: Icon Text\" Widget for service section."
+msgstr ""
+
+#: inc/widgets.php:37
+msgid "Testimonial Section"
+msgstr ""
+
+#: inc/widgets.php:39
+msgid "Add \"Text\" and \"Rara: Testimonial\" Widget for testimonial section."
+msgstr ""
+
+#: inc/widgets.php:42
+msgid "Call To Action Section"
+msgstr ""
+
+#: inc/widgets.php:44
+msgid "Add \"Rara: Call To Action\" Widget for call to action section."
+msgstr ""
+
+#: inc/widgets.php:47
+msgid "Footer One"
+msgstr ""
+
+#: inc/widgets.php:49
+msgid "Add footer one widgets here."
+msgstr ""
+
+#: inc/widgets.php:52
+msgid "Footer Two"
+msgstr ""
+
+#: inc/widgets.php:54
+msgid "Add footer two widgets here."
+msgstr ""
+
+#: inc/widgets.php:57
+msgid "Footer Three"
+msgstr ""
+
+#: inc/widgets.php:59
+msgid "Add footer three widgets here."
+msgstr ""
+
+#: inc/widgets.php:62
+msgid "Footer Four"
+msgstr ""
+
+#: inc/widgets.php:64
+msgid "Add footer four widgets here."
+msgstr ""
+
+#: inc/woocommerce-functions.php:44
+msgid "Shop Sidebar"
+msgstr ""
+
+#: inc/woocommerce-functions.php:46
+msgid "Sidebar displaying only in WooCommerce pages."
+msgstr ""
+
+#: sections/latest-posts.php:9 inc/customizer/front-page.php:138
+#: inc/customizer/partials.php:69
+msgid "Tips for getting things done"
+msgstr ""
+
+#: sections/latest-posts.php:10 inc/customizer/front-page.php:169
+msgid "More From The Blog"
+msgstr ""
+
+#: sections/latest-posts.php:49
+msgid "by "
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#. 1: link to WP admin new post page.
+#: template-parts/content-none.php:22
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:35
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:41
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: inc/customizer/appearance.php:18
+msgid "Appearance Settings"
+msgstr ""
+
+#. %s: plugin name
+#: inc/customizer/customizer.php:74
+#, php-format
+msgid ""
+"If you want to take full advantage of the features this theme has to offer, "
+"please install and activate %s plugin."
+msgstr ""
+
+#: inc/customizer/customizer.php:78
+msgid "Recommended Plugin"
+msgstr ""
+
+#: inc/customizer/customizer.php:79
+msgid "Install and Activate"
+msgstr ""
+
+#: inc/customizer/customizer.php:80
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:75
+msgid "Activate"
+msgstr ""
+
+#: inc/customizer/customizer.php:81
+msgid "Deactivate"
+msgstr ""
+
+#: inc/customizer/footer.php:10 inc/customizer/partials.php:31
+#, php-format
+msgid "&copy; Copyright %1$s %2$s. All Rights Reserved."
+msgstr ""
+
+#: inc/customizer/footer.php:10 inc/customizer/partials.php:31
+#: inc/customizer/partials.php:38
+msgid "Y"
+msgstr ""
+
+#: inc/customizer/footer.php:15
+msgid "Footer Settings"
+msgstr ""
+
+#: inc/customizer/footer.php:32
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/footer.php:33
+msgid "Add Copyright Text Here."
+msgstr ""
+
+#: inc/customizer/front-page.php:17
+msgid "FrontPage Settings"
+msgstr ""
+
+#: inc/customizer/front-page.php:25
+msgid "Banner And Newsletter Section"
+msgstr ""
+
+#: inc/customizer/front-page.php:46
+msgid "Enable Banner Section"
+msgstr ""
+
+#: inc/customizer/front-page.php:69 inc/customizer/general.php:377
+msgid "Newsletter Shortcode"
+msgstr ""
+
+#: inc/customizer/front-page.php:70 inc/customizer/general.php:378
+msgid ""
+"Enter the BlossomThemes Email Newsletters Shortcode. Ex. [BTEN id=\"356\"]"
+msgstr ""
+
+#: inc/customizer/front-page.php:78
+msgid "Blog Section"
+msgstr ""
+
+#: inc/customizer/front-page.php:96
+msgid "Enable Blog Section"
+msgstr ""
+
+#: inc/customizer/front-page.php:97
+msgid "Option to enable blog section."
+msgstr ""
+
+#: inc/customizer/front-page.php:116
+msgid "Blog Section Title"
+msgstr ""
+
+#: inc/customizer/front-page.php:117
+msgid "Set the title for blog section."
+msgstr ""
+
+#: inc/customizer/front-page.php:148
+msgid "Blog Section SubTitle"
+msgstr ""
+
+#: inc/customizer/front-page.php:149
+msgid "Set the subtitle for blog section."
+msgstr ""
+
+#: inc/customizer/front-page.php:179
+msgid "More From Blog Title"
+msgstr ""
+
+#: inc/customizer/front-page.php:180
+msgid "Set the title for button."
+msgstr ""
+
+#: inc/customizer/general.php:15
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/general.php:24
+msgid "Header Images"
+msgstr ""
+
+#: inc/customizer/general.php:40
+msgid "Header Image For Blog Page"
+msgstr ""
+
+#: inc/customizer/general.php:41
+msgid ""
+"Choose Header Image of your choice for Blog Pages. Recommended size for this "
+"image is 1920px by 570px."
+msgstr ""
+
+#: inc/customizer/general.php:59
+msgid "Header Image For Archive Page"
+msgstr ""
+
+#: inc/customizer/general.php:60
+msgid ""
+"Choose Header Image of your choice for Archive Pages. Recommended size for "
+"this image is 1920px by 570px."
+msgstr ""
+
+#: inc/customizer/general.php:78
+msgid "Header Image For Search Page"
+msgstr ""
+
+#: inc/customizer/general.php:79
+msgid ""
+"Choose Header Image of your choice for Search Page. Recommended size for "
+"this image is 1920px by 570px"
+msgstr ""
+
+#: inc/customizer/general.php:97
+msgid "Header Image For 404 Page"
+msgstr ""
+
+#: inc/customizer/general.php:98
+msgid ""
+"Choose Header Image of your choice for 404 Page. Recommended size for this "
+"image is 1920px by 570px"
+msgstr ""
+
+#: inc/customizer/general.php:110
+msgid "Header Button Settings"
+msgstr ""
+
+#: inc/customizer/general.php:126
+msgid "Menu Button Label"
+msgstr ""
+
+#: inc/customizer/general.php:127
+msgid "Option to change label for button on menu."
+msgstr ""
+
+#: inc/customizer/general.php:154
+msgid "Menu Button URL"
+msgstr ""
+
+#: inc/customizer/general.php:155
+msgid "Option to set URL for button on menu."
+msgstr ""
+
+#: inc/customizer/general.php:166
+msgid "Posts & Pages Settings"
+msgstr ""
+
+#: inc/customizer/general.php:185
+msgid "Hide Posted On"
+msgstr ""
+
+#: inc/customizer/general.php:186
+msgid "Option to hide posted on detail of post."
+msgstr ""
+
+#: inc/customizer/general.php:205
+msgid "Hide Author Name"
+msgstr ""
+
+#: inc/customizer/general.php:206
+msgid "Option to hide author name of post."
+msgstr ""
+
+#: inc/customizer/general.php:225
+msgid "Hide comments Number"
+msgstr ""
+
+#: inc/customizer/general.php:226
+msgid "Option to hide comments count of post."
+msgstr ""
+
+#: inc/customizer/general.php:245
+msgid "Hide Author Bio"
+msgstr ""
+
+#: inc/customizer/general.php:246
+msgid "Option to hide author bio-data on posts."
+msgstr ""
+
+#: inc/customizer/general.php:264
+msgid "Disable Related Posts"
+msgstr ""
+
+#: inc/customizer/general.php:265
+msgid "Options to hide related posts."
+msgstr ""
+
+#: inc/customizer/general.php:281
+msgid "Related Posts Label"
+msgstr ""
+
+#: inc/customizer/general.php:282
+msgid "Option to change label for related posts on single."
+msgstr ""
+
+#: inc/customizer/general.php:315
+msgid "Excerpt Length"
+msgstr ""
+
+#: inc/customizer/general.php:316
+msgid "Automatically generated excerpt length (in words)."
+msgstr ""
+
+#: inc/customizer/general.php:330
+msgid "SEO Settings"
+msgstr ""
+
+#: inc/customizer/general.php:347
+msgid "Enable Last Update Post Date"
+msgstr ""
+
+#: inc/customizer/general.php:348
+msgid ""
+"Enable to show last updated post date on listing as well as in single post."
+msgstr ""
+
+#: inc/customizer/general.php:357
+msgid "Newsletter Section"
+msgstr ""
+
+#: inc/customizer/info.php:15
+msgid "Demo & Documentation"
+msgstr ""
+
+#. 1: string, 2: preview url, 3: string
+#: inc/customizer/info.php:30
+msgid "Demo Link : "
+msgstr ""
+
+#: inc/customizer/info.php:30
+msgid "https://demo.raratheme.com/influencer/"
+msgstr ""
+
+#: inc/customizer/info.php:30 inc/customizer/info.php:35
+msgid "Click here."
+msgstr ""
+
+#. 1: string, 2: documentation url, 3: string
+#: inc/customizer/info.php:35
+msgid "Documentation Link : "
+msgstr ""
+
+#: inc/customizer/info.php:134
+msgid "Pro Available"
+msgstr ""
+
+#: inc/customizer/info.php:136
+msgid "VIEW PRO THEME"
+msgstr ""
+
+#: inc/customizer/layout.php:14
+msgid "Layout Settings"
+msgstr ""
+
+#: inc/customizer/layout.php:23
+msgid "Blog Layout"
+msgstr ""
+
+#: inc/customizer/layout.php:44
+msgid "Blog Page Layout"
+msgstr ""
+
+#: inc/customizer/layout.php:45
+msgid "This is the layout for blog index page."
+msgstr ""
+
+#: inc/customizer/layout.php:58
+msgid "General Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout.php:79
+msgid "Page Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout.php:80
+msgid ""
+"This is the general sidebar layout for pages. You can override the sidebar "
+"layout for individual page in repective page."
+msgstr ""
+
+#: inc/customizer/layout.php:106
+msgid "Post Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout.php:107
+msgid ""
+"This is the general sidebar layout for posts. You can override the sidebar "
+"layout for individual post in repective post."
+msgstr ""
+
+#: inc/customizer/layout.php:133
+msgid "Default Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout.php:134
+msgid "This is the general sidebar layout for whole site."
+msgstr ""
+
+#: inc/customizer/partials.php:37
+msgid "&copy; Copyright "
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:63
+msgid "RaraTheme Companion"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:69
+msgid "BlossomThemes Email Newsletter"
+msgstr ""
+
+#: inc/tgmpa/recommended-plugins.php:75
+msgid "Rara One Click Demo Import"
+msgstr ""
+
+#: inc/customizer-plugin-recommend/customizer-notice/class-customizer-notice.php:144
+msgid "Activating"
+msgstr ""
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:59
+msgid "Install and activate"
+msgstr ""
+
+#: inc/customizer-plugin-recommend/plugin-install/class-plugin-install-helper.php:110
+msgid "Activating "
+msgstr ""
+
+#. Name of the theme
+msgid "Influencer"
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Influencer is a clean minimal and responsive WordPress theme well suited for "
+"personal, business, finance, portfolio, design, art, ecommerce and any other "
+"creative and minimalistic style website and blogs. Theme comes with full-"
+"screen banner, author bio, and multiple frontpage section. Influencer "
+"incorporates latest web standards such as HTML5 and CSS3 and is SEO friendly "
+"thanks to its clean structure and codebase. It has multiple Theme Options "
+"based on WordPress Customizer to change theme layout, colors, fonts, "
+"frontpage settings and much more. Theme is also translation and multilingual "
+"ready, compatible with WPML. Influencer is a free WordPress theme with "
+"premium functionality and design. Theme fully depends on RaraTheme Companion "
+"plugin for its frontpage section also it is ecommerce ready thanks to its "
+"WooCommerce integration. Theme is optimized to work with RaraTheme Companion,"
+" BlossomThemes Email Newsletter, WooCommerce and other popular free and "
+"premium plugins. This theme perfects for blog, portfolio and personal "
+"websites. Check demo at https://demo.raratheme.com/influencer/, read the "
+"documentation at https://raratheme.com/documentation/influencer/, and get "
+"support at https://raratheme.com/support-ticket/."
+msgstr ""
+
+#. URI of the theme
+msgid "https://raratheme.com/wordpress-themes/influencer/"
+msgstr ""
+
+#. Author of the theme
+msgid "Rara Theme"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://raratheme.com/"
+msgstr ""
